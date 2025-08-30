@@ -1,1 +1,12 @@
 square
+rectangle
+circle
+triangle
+hexagon
+pentagon
+octagon
+septagon
+decagon
+nonagon
+oval
+rhombus
